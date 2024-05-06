@@ -2,5 +2,14 @@ MY RESOLUTION
 - I wanna be a tenacious person
 - Create a website and application
 - Improving my ability to solve problems 
+  *Reasoning
+   ^ Math
+     ^ Addition
+     ^ Multiplication
+     ^ Division
+   ^ General
+     ^ Inductive
+     ^ Deductive
+     ^ Quantitative
 - Collaboration with experts
 
