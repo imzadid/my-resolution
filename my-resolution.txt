@@ -11,5 +11,6 @@ MY RESOLUTION
      ^ Inductive
      ^ Deductive
      ^ Quantitative
+     ^ Abductive
 - Collaboration with experts
 
