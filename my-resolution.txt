@@ -4,6 +4,9 @@ MY RESOLUTION
 - Improving my ability to solve problems 
   * Reasoning
     ^ Math
+      ^ Addition
+      ^ Multiplication
+      ^ Division
     ^ General
     ^ Inductive
     ^ Deductive
